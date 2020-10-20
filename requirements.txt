@@ -1,6 +1,6 @@
 coverage
 distribute
-Django==1.4.5
+Django==1.11.29
 django-coverage
 pep8
 pyflakes
